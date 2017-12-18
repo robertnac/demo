@@ -1,3 +1,4 @@
+package de.ronasoft.demo;
 
 public class Main {
 
